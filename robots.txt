@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahtienuge.taramadeit.com/sitemap.xml
